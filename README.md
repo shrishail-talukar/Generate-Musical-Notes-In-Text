@@ -11,4 +11,6 @@ For Ubuntu:
 
 ![image](https://github.com/shrishail-talukar/music/assets/7954717/42281476-96fd-4b29-92c5-f73c885734f3)
 
+`Ctrl + C` to exit.
+
 Endless possibilities in music.
